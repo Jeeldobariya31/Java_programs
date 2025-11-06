@@ -125,7 +125,7 @@ It includes 12 structured lab folders covering topics like Java basics, OOP prin
 - **Course Title:** Object Oriented Programming using Java  
 - **Department:** Computer Science & Engineering  
 - **University:** Darshan University  
-- **Academic Year:** 2024–25 (Semester III)  
+- **Academic Year:** 2024–25 (Semester II)  
 - **Instructor:** Prof. Arjun Bala
 
 ---
